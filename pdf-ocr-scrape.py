@@ -4,6 +4,8 @@
     # tesseract-orc - install from:
         # windows: https://github.com/UB-Mannheim/tesseract/wiki
         # others: https://github.com/tesseract-ocr/tesseract/wiki
+    # Improve Output quality
+        # https://github.com/tesseract-ocr/tesseract/wiki/ImproveQuality
     # If you don't have tesseract executable in your PATH, include the following:
         # pytesseract.pytesseract.tesseract_cmd = r'<full_path_to_your_tesseract_executable>'
         # Example tesseract_cmd = r'C:\Program Files (x86)\Tesseract-OCR\tesseract'
